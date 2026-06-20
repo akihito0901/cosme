@@ -1,3 +1,9 @@
-# LUNARIA cosmetics landing page
+# LUNARIA
 
-架空の化粧品ブランド「LUNARIA」の静的ランディングページです。
+架空の化粧品ブランド LUNARIA の静的ランディングページです。
+
+- 約6セクション構成
+- CTA 2か所
+- 固定FAQ / 問い合わせボタン
+- 指定画像をWebP化して各セクション背景へ配置
+- Vercelでそのまま静的公開可能
